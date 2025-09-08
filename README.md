@@ -26,9 +26,12 @@ I'm Hafsa Saleem, a passionate Software Engineering student at COMSATS Universit
 
 
 ## Github Status 🏆
-
 <img  src="https://github-readme-stats.vercel.app/api?username=HafsaSaleem069&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HafsaSaleem069&theme=react" width="48%" >
 <br>
+
+![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=HafsaSaleem069&theme=react-dark)
+
 <!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=HafsaSaleem069&theme=react" width="48%" > -->
 <br>
 
